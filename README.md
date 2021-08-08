@@ -1,3 +1,8 @@
+## Olá
+
+Este repositório hospeda as anotações e estudos pessoais sobre java e programação orientada a objetos com java.
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
